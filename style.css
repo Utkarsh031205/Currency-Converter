@@ -4,10 +4,15 @@
 }
 
 body {
+  /* background-image: url('your-image.jpg'); */
+  background-size: cover;
+  background-position: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url('bg-img/53831dad-6ee1-4cf4-89bd-211d4b0eab68.png');
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;  /* Ensures the body takes up the full viewport height */
+  min-height: 100vh; 
   background-color: #f4e4ba;
 }
 
