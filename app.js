@@ -34,7 +34,7 @@ const updateExchangeRate = async () => {
     amtVal = 1;
     amount.value = "1";
   }
-  // Updated endpoint to match new API format
+
   const endpoint = `currencies/${fromCurr.value.toLowerCase()}.json`;
   const URL = `${BASE_URL}/${endpoint}`;
   let response = await fetch(URL);
