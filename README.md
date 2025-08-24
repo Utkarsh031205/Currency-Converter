@@ -26,7 +26,8 @@ Edit
 3. Enter an amount, select currencies, and click "Get Exchange Rate".
 
 ## Screenshot
-![App Preview](bg-img/53831dad-6ee1-4cf4-89bd-211d4b0eab68.png)
+![App Preview](screenshots/screenshot.png)
+
 
 ## Acknowledgements
 - [Currency API](https://github.com/fawazahmed0/currency-api) for exchange rates  
