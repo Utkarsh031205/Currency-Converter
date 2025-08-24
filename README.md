@@ -26,7 +26,7 @@ Edit
 3. Enter an amount, select currencies, and click "Get Exchange Rate".
 
 ## Screenshot
-![App Preview](screenshots/screenshot.png)
+![App Preview](screenshot/screenshot.png)
 
 
 ## Acknowledgements
