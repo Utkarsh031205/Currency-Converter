@@ -18,10 +18,6 @@ It fetches live exchange rates using [fawazahmed0/currency-api](https://github.c
 ## How to Use
 1. Download or clone the project:
 git clone https://github.com/your-username/currency-converter.git
-
-markdown
-Copy
-Edit
 2. Open `index.html` in your browser.
 3. Enter an amount, select currencies, and click "Get Exchange Rate".
 
